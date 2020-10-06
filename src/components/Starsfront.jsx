@@ -7,7 +7,7 @@ function Stars(){
         <div id="stars2"></div>
         <div id="stars3"></div>
         <div id="title">
-          <span>ArchexTrending</span>
+          <span>3D Arc Studio</span>
           <br />
           <span>Interior Designer</span>
         </div>
