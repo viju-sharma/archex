@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/archex/static/js/main.c3668863.chunk.js",
+    "main.js.map": "/archex/static/js/main.c3668863.chunk.js.map",
+    "runtime-main.js": "/archex/static/js/runtime-main.d6403276.js",
+    "runtime-main.js.map": "/archex/static/js/runtime-main.d6403276.js.map",
+    "static/js/2.1c1cead0.chunk.js": "/archex/static/js/2.1c1cead0.chunk.js",
+    "static/js/2.1c1cead0.chunk.js.map": "/archex/static/js/2.1c1cead0.chunk.js.map",
+    "index.html": "/archex/index.html",
+    "precache-manifest.51e783ca29e3c62a6b8a5ba8315b64a2.js": "/archex/precache-manifest.51e783ca29e3c62a6b8a5ba8315b64a2.js",
+    "service-worker.js": "/archex/service-worker.js",
+    "static/js/2.1c1cead0.chunk.js.LICENSE.txt": "/archex/static/js/2.1c1cead0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6403276.js",
+    "static/js/2.1c1cead0.chunk.js",
+    "static/js/main.c3668863.chunk.js"
+  ]
+}
